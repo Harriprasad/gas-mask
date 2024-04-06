@@ -1,0 +1,3 @@
+OPEN SGMS1
+OPEN Debug
+INSTALL setup
